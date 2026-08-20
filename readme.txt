@@ -3,4 +3,4 @@ THis is a patched sign
 This is another patched sign
 MIAO
 WANG
-23333
+Creating a new branch is quick AND simple
